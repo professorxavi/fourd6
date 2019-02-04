@@ -1,13 +1,13 @@
-import React from 'react';
-import './Stats.css';
+import React, { Component } from 'react';
+import './Scores.css';
 
-class Stats extends React.Component {
+class Scores extends Component {
   render() {
     return (
       <div className="stats">
         <p className="greeting">Happy Adventuring!</p>
         <ul className="stat-list">
-          {this.props.stats.map((s, index) => {
+          {this.props.scores.map((s, index) => {
             return (<li key={index} className="stat">{s}</li>);
           })}
         </ul>
@@ -16,4 +16,4 @@ class Stats extends React.Component {
   }
 }
 
-export default Stats;
+export default Scores;
