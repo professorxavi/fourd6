@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
+import { Button, Card, Elevation, H6 } from "@blueprintjs/core";
 import Scores from './Scores';
-// import './AbilityScores.css';
 
 class AbilityScores extends Component {
   constructor(props) {
@@ -55,14 +55,29 @@ class AbilityScores extends Component {
   render() {
     const list = this.state.stats.length > 0 ? <Scores scores={this.state.stats} /> : null;
     return (
+        // <div>
+        //   <p>
+        //     You ever just sit there wanting to roll Ability Scores
+        //     but you don't use Roll20 enough to remember <code> /roll 4d6kh3 </code>
+        //     let alone your login info and you just need something that rolls 4 random numbers
+        //     between 1 and 6, keeps the highest 3 and does that 5 more times? I got you fam.
+        //   </p>
+        //   <button className="generate-button" >Roll for Ability Scores</button>
+        //   {list}
+        // </div>
         <div>
-          <p>
-            You ever just sit there wanting to roll Ability Scores
-            but you don't use Roll20 enough to remember <code> /roll 4d6kh3 </code>
-            let alone your login info and you just need something that rolls 4 random numbers
-            between 1 and 6, keeps the highest 3 and does that 5 more times? I got you fam.
-          </p>
-          <button className="generate-button" onClick={() => this.rollStats(6)}>Roll for Ability Scores</button>
+          <div className="ability-scores">
+            <Card elevation={Elevation.TWO}>
+              <h3>Here's the thing</h3>
+              <H6 className="as-desc">
+                You ever just sit there wanting to roll Ability Scores
+                but you don't use Roll20 enough to remember <code> /roll 4d6kh3 </code>
+                let alone your login info and you just need something that rolls 4 random numbers
+                between 1 and 6, keeps the highest 3 and does that 5 more times? I got you fam.
+              </H6>
+              <Button intent="warning" onClick={() => this.rollStats(6)}>Roll for Ability Scores</Button>
+            </Card>
+          </div>
           {list}
         </div>
     );

@@ -1,16 +1,18 @@
 import React, { Component } from 'react';
-import './Scores.css';
+import { H5, H6 } from "@blueprintjs/core";
 
 class Scores extends Component {
   render() {
     return (
       <div className="stats">
-        <p className="greeting">Happy Adventuring!</p>
-        <ul className="stat-list">
-          {this.props.scores.map((s, index) => {
-            return (<li key={index} className="stat">{s}</li>);
-          })}
-        </ul>
+        <div>
+          <H5 id="greeting">Happy Adventuring!</H5>
+          <ul className="stat-list">
+            {this.props.scores.map((s, index) => {
+              return (<li key={index} className="stat">{s}</li>);
+            })}
+          </ul>
+        </div>
       </div>
     );
   }
