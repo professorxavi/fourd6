@@ -1,8 +1,8 @@
-import React from 'react';
+import React, { Component } from 'react';
 import MediaQuery from 'react-responsive';
 import { Alignment, AnchorButton, Navbar } from "@blueprintjs/core";
 
-class Header extends React.Component {
+class Header extends Component {
   render() {
     return (
       <Navbar>

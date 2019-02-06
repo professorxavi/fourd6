@@ -1,9 +1,9 @@
-import React from 'react';
+import React, { Component } from 'react';
 import MediaQuery from 'react-responsive';
 import { Button, Popover, Menu, MenuItem, Position } from "@blueprintjs/core";
 import logo from '../../logo.png';
 
-class Footer extends React.Component {
+class Footer extends Component {
   render() {
     const content =
       <Menu>
