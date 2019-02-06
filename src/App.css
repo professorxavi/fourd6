@@ -14,26 +14,6 @@
   font-size: calc(10px + 1.5vmin); */
   padding: 3.25rem 10% 0;
 }
-.footer {
-  position: fixed;
-  bottom: 0;
-  width: 100%;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-}
-.logo {
-  z-index: -1;
-  margin: 0 .5rem .5rem 0;
-  height: 25vmin;
-}
-.button-div {
-  margin: 1.5rem;
-}
-#nav-button {
-  border-radius: 30px;
-  padding: 18px 25px;
-}
 /* .header {
   text-align: justify;
   text-align-last: center;
