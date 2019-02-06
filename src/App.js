@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Header } from './components/header';
 import { Footer } from './components/footer';
 import { AbilityScores } from './components/stat-roller';
-import { Class } from './components/class-survey';
+import { LevelZero } from './components/class-survey';
 import { Route } from 'react-router-dom';
 import './App.css';
 
@@ -15,7 +15,7 @@ class App extends Component {
             <Header />
             <div className="container">
               <Route exact path="/" component={AbilityScores} />
-              <Route path="/class" component={Class} />
+              <Route path="/class" component={LevelZero} />
             </div>
             <Footer />
           </div>
