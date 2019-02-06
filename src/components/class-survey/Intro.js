@@ -14,7 +14,7 @@ class Intro extends Component {
           {`Let's try to make this a little easier. We'll start out at level 0, by the end of
             this you'll gain your first level and a class. Sound good?`}
         </H6>
-        <Button intent="warning" onClick={() => this.props.onClick()}>Yeah, let's lfg!</Button>
+        <Button intent="warning" onClick={() => this.props.onClick()}>{`Yeah, let's lfg!`}</Button>
       </Card>
     );
   }
