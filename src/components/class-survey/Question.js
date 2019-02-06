@@ -29,7 +29,7 @@ class Survey extends Component {
         >
           {options}
         </RadioGroup>
-        <Button intent="warning" onClick={() => this.props.onClick(this.state.selection)}>Continue</Button>
+        <Button disabled={this.state.selection.length < 1} intent="warning" onClick={() => this.props.onClick(this.state.selection)}>Continue</Button>
       </div>
     );
   }
