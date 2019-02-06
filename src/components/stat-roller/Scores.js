@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { H5, H6 } from "@blueprintjs/core";
+import { H5 } from "@blueprintjs/core";
 
 class Scores extends Component {
   render() {
