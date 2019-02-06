@@ -7,10 +7,8 @@ class Footer extends Component {
   render() {
     const content =
       <Menu>
-        <MenuItem href="/" icon="new-person" text="Roller"/>
+        <MenuItem href="/" icon="new-person" text="Rolls"/>
         <MenuItem href="/class" icon="diagram-tree" text="Lvl 0"/>
-        <MenuItem href="/class" icon="crown" text="DM Tools"/>
-        <MenuItem href="/class" icon="grid" text="Table"/>
       </Menu>;
 
     return (
