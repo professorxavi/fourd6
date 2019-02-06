@@ -1,0 +1,15 @@
+#level-zero {
+  color: #61dafb;
+}
+.class-img {
+  height: 50vmin;
+}
+.class-title {
+  float: right;
+}
+
+@media only screen and (max-width: 767px) {
+  .class-img {
+    height: 60vmin;
+  }
+}

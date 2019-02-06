@@ -1,0 +1,324 @@
+{
+  "1": {
+    "id": "1",
+    "text": "How do you react to danger?",
+    "options": [
+      {
+        "text": "I don't mind charging in.",
+        "value": "2"
+      },
+      {
+        "text": "I deal with it from a safe distance",
+        "value": "3"
+      }
+    ],
+    "class": false
+  },
+  "2": {
+    "text": "Are you strong or nimble?",
+    "options": [
+      {
+        "text": "Strong",
+        "value": "4"
+      },
+      {
+        "text": "Nimble",
+        "value": "5"
+      }
+    ],
+    "class": false
+  },
+  "3": {
+    "text": "What do you rely on most?",
+    "options": [
+      {
+        "text": "Magic",
+        "value": "6"
+      },
+      {
+        "text": "Skills",
+        "value": "7"
+      }
+    ],
+    "class": false
+  },
+  "4": {
+    "text": "Are you good with the gods?",
+    "options": [
+      {
+        "text": "Meh.",
+        "value": "8"
+      },
+      {
+        "text": "I got 'em on speed dial.",
+        "value": "9"
+      }
+    ],
+    "class": false
+  },
+  "5": {
+    "text": "Do you live for kung-fu movies?",
+    "options": [
+      {
+        "text": "Not so much.",
+        "value": "10"
+      },
+      {
+        "text": "Bruce Lee is my idol.",
+        "value": "11"
+      }
+    ],
+    "class": false
+  },
+  "6": {
+    "text": "I want...",
+    "options": [
+      {
+        "text": "flexibility",
+        "value": "12"
+      },
+      {
+        "text": "one or two supernatural nukes",
+        "value": "13"
+      },
+      {
+        "text": "magical stamina for days",
+        "value": "14"
+      }
+    ],
+    "class": false
+  },
+  "7": {
+    "text": "How good are you at keeping quiet?",
+    "options": [
+      {
+        "text": "*silence*",
+        "value": "15"
+      },{
+        "text": "I don't know, I've never tried it!",
+        "value": "16"
+      }
+    ],
+    "class": false
+  },
+  "8": {
+    "text": "Are you prone to fly into a rage?",
+    "options": [
+      {
+        "text": "No more than the next adventurer.",
+        "value": "17"
+      },{
+        "text": "Raaaaaahhhhrrr!!!",
+        "value": "18"
+      }
+    ],
+    "class": false
+  },
+  "9": {
+    "text": "I live my faith by...",
+    "options": [
+      {
+        "text": "channeling the nature and power of my god.",
+        "value": "19"
+      },{
+        "text": "delivering righteous justice",
+        "value": "20"
+      }
+    ],
+    "class": false
+  },
+  "10": {
+    "text": "Would you risk your life for a good story?",
+    "options": [
+      {
+        "text": "I think not.",
+        "value": "21"
+      },{
+        "text": "You know it!",
+        "value": "16"
+      }
+    ],
+    "class": false
+  },
+  "11": {
+    "name": "Monks",
+    "text": " are wise and disciplined ascetics who learn to use their bodies to manipulate magical energy. Through their training, they can learn to deflect arrow, turn their fists into deadly weapons, and manipulate the laws of nature.",
+    "class": true
+  },
+  "12": {
+    "text": "Are you the academic type?",
+    "options": [
+      {
+        "text": "Not necessarily.",
+        "value": "22"
+      },{
+        "text": "I'm a bookworm!",
+        "value": "23"
+      }
+    ],
+    "class": false
+  },
+  "13": {
+    "name": "Sorcerors",
+    "text": " are born with raw magical power in their blood. What they lack in knowledge, they make up for with their innate ability to manipulate spells to suit their needs.",
+    "class": true
+  },
+  "14": {
+    "name": "Warlocks",
+    "text": " are ambitious seekers of arcane secrets who draw power from alliances and pacts with otherworldly beings. In combat, some warlocks rely on ranged spells to blast at foes while others summon arcane weapons to engage in melee combat.",
+    "class": true
+  },
+  "15": {
+    "text": "Do you keep any pets?",
+    "options": [
+      {
+        "text": "What, like gerbils?",
+        "value": "24"
+      },{
+        "text": "My best friends are ferocious beasts.",
+        "value": "25"
+      }
+    ],
+    "class": false
+  },
+  "16": {
+    "name": "Bards",
+    "text": " are quick musical magicians who weave spells with song. Their greatest strength is their versatility. While most prefer sticking to the sidelines, some are inspired by songs of valor to take up a sword and join in the fray.",
+    "class": true
+  },
+  "17": {
+    "text": "How cool would it be to turn into a bear?",
+    "options": [
+      {
+        "text": "So cool!",
+        "value": "26"
+      },{
+        "text": "I have allergies.",
+        "value": "27"
+      }
+    ],
+    "class": false
+  },
+  "18": {
+    "name": "Barbarians",
+    "text": " are savage warriors who embrace thier animal nature and learn to channel primal rage. They have been toughened by their wild homelands and eschew civilization.",
+    "class": true
+  },
+  "19": {
+    "name": "Clerics",
+    "text": " are chosen agents of the gods who channel divine power to execute divine will. Clerics' abilities and dispositions are as diverse as the gods they serve.",
+    "class": true
+  },
+  "20": {
+    "name": "Paladins",
+    "text": " are holy warriors dedicated to righteousness. They travel far and wide fighting evil, healing the sick, and spreading good wherever they go.",
+    "class": true
+  },
+  "21": {
+    "text": "I am deadly because...",
+    "options": [
+      {
+        "text": "I'm experienced in the art of combat",
+        "value": "27"
+      },
+      {
+        "text": "I'm a born schemer.",
+        "value": "28"
+      },
+      {
+        "text": "I'm a master hunter.",
+        "value": "25"
+      }
+    ],
+    "class": false
+  },
+  "22": {
+    "text": "Are you religious?",
+    "options": [
+      {
+        "text": "Define \"religious\".",
+        "value": "29"
+      },
+      {
+        "text": "No, my power comes from wicked lute solos.",
+        "value": "16"
+      },
+      {
+        "text": "No, my power comes from within.",
+        "value": "13"
+      }
+    ],
+    "class": false
+  },
+  "23": {
+    "name": "Wizards",
+    "text": " are wise arcane scholar. Their studies give them insight into diverse and powerful schools of magic, allowing them to summon explosive fireballs, raise undead armies, and manipulate the fabric of time.",
+    "class": true
+  },
+  "24": {
+    "text": "I'm trained to kill using...",
+    "options": [
+      {
+        "text": "My brain, and maybe poison",
+        "value": "30"
+      },
+      {
+        "text": "Anything that skewers, slices, or smashes.",
+        "value": "27"
+      }
+    ],
+    "class": false
+  },
+  "25": {
+    "name": "Rangers",
+    "text": " are stealthy and highly specialized hunters from the wild frontiers. A mix of nature magic and martial training make rangers formidable combatants who are deadly at any distance.",
+    "class": true
+  },
+  "26": {
+    "name": "Druids",
+    "text": " are followers of ancient traditions that seek unity with the primal forces of the natural world. These traditions grant druids the ability to do incredible things like transform into animals or call terrifying elemental power down on the heads of their enemies.",
+    "class": true
+  },
+  "27": {
+    "name": "Fighters",
+    "text": " are masters of martial combat. While all fighters are trained in the basics of every fighting style, each fighter also has a specialty that makes them uniquely deadly.",
+    "class": true
+  },
+  "28": {
+    "text": "My schemes usually involve...",
+    "options": [
+      {
+        "text": "Cloak and dagger tactics",
+        "value": "30"
+      },
+      {
+        "text": "Allying myself with dark and strange elements.",
+        "value": "14"
+      }
+    ],
+    "class": false
+  },
+  "29": {
+    "text": "Where does your power come from?",
+    "options": [
+      {
+        "text": "The gods",
+        "value": "19"
+      },
+      {
+        "text": "A creepy otherworldly pact.",
+        "value": "14"
+      },
+      {
+        "text": "My connection with nature.",
+        "value": "26"
+      }
+    ],
+    "class": false
+  },
+  "30": {
+    "name": "Rouges",
+    "text": " are skilled and resourceful opportunists. They execute cunning and precision, often lulling thier foes into a false sense of security before they strike.",
+    "class": true
+  }
+}

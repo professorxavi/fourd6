@@ -1,3 +1,4 @@
-import Class from './Class';
+import LevelZero from './LevelZero';
+import './LevelZero.css';
 
-export { Class };
+export { LevelZero };
