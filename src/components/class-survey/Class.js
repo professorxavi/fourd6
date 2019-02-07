@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import { Link } from "react-router-dom";
 import { H4 } from "@blueprintjs/core";
 
 class Class extends Component {
@@ -15,7 +14,6 @@ class Class extends Component {
         <p>
           {this.props.desc}
         </p>
-        <Link to="/class" onClick={() => this.props.reset()}>Try Again</Link>
       </div>
     );
   }

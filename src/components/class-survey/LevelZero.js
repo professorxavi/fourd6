@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { H5 } from "@blueprintjs/core";
+import { Button, H5 } from "@blueprintjs/core";
 import Intro from './Intro';
 import Survey from './Survey';
 import options from './decisions.json';
@@ -34,11 +34,15 @@ class Class extends Component {
   }
 
   render() {
-    const body = this.state.start ? <Survey option={this.state.optionDisplay} reset={this.reset} onClick={this.setDisplay} /> : <Intro onClick={this.setStart} />;
+    const body = this.state.start ? <Survey option={this.state.optionDisplay} onClick={this.setDisplay} /> : <Intro onClick={this.setStart} />;
     const headerText = this.state.optionDisplay.class ? 'Level 1' : 'Level 0';
+    const refreshButton = this.state.optionDisplay.class ? <Button icon="refresh" minimal="true" onClick={() => this.reset()} /> : '';
     return (
       <div>
-        <H5 id="level-zero">{headerText}</H5>
+        <div className="level-area">
+          <H5 id="level-zero">{headerText}</H5>
+          {refreshButton}
+        </div>
         {body}
       </div>
     );

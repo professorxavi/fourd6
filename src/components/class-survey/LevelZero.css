@@ -7,9 +7,13 @@
 .class-title {
   float: right;
 }
+.level-area{
+  display: flex;
+  justify-content: space-between;
+}
 
 @media only screen and (max-width: 767px) {
   .class-img {
-    height: 60vmin;
+    height: 50vmin;
   }
 }
