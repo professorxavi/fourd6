@@ -6,13 +6,8 @@
   flex-direction: row;
   justify-content: flex-end;
 }
-.logo {
-  z-index: -1;
-  margin: 0 .5rem .5rem 0;
-  height: 25vmin;
-}
 .button-div {
-  margin: 1.5rem;
+  margin: .5rem;
 }
 #nav-button {
   border-radius: 30px;

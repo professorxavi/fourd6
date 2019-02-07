@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import MediaQuery from 'react-responsive';
 import { Button, Popover, Menu, MenuItem, Position } from "@blueprintjs/core";
-import logo from '../../logo.png';
 
 class Footer extends Component {
   render() {
@@ -20,7 +19,6 @@ class Footer extends Component {
             </Popover>
           </div>
         </MediaQuery>
-        <img src={logo} className="logo" alt="logo" />
       </div>
     );
   }
