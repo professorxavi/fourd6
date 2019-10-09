@@ -1,4 +1,4 @@
-import LevelZero from './LevelZero';
+import LevelZero from './level-zero';
 import './LevelZero.css';
 
 export { LevelZero };

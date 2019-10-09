@@ -143,7 +143,63 @@
   "11": {
     "name": "Monks",
     "text": " are wise and disciplined ascetics who learn to use their bodies to manipulate magical energy. Through their training, they can learn to deflect arrow, turn their fists into deadly weapons, and manipulate the laws of nature.",
-    "subclasses": [],
+    "sections": [
+      {
+        "displayName": "Subclasses",
+        "iterable": [
+          {
+            "name": "Way of the Open Hand",
+            "description": "magic barehand ass kicking monk",
+            "source": "PHB"
+          },
+          {
+            "name": "Way of the Shadow",
+            "description": "ninja",
+            "source": "PHB"
+          },
+          {
+            "name": "Way of the Four Elements",
+            "description": "Naruto peeps",
+            "source": "PHB"
+          },
+          {
+            "name": "Way of the Kensei",
+            "description": "magic weapon ass kicking monk",
+            "source": "XGTE"
+          },
+          {
+            "name": "Way of the Soul Sun",
+            "description": "Goku, Ryu, etc. hand light beams",
+            "source": "XGTE"
+          }
+        ]
+      },
+      {
+        "displayName": "Ropleplaying Inspiration",
+        "iterable": [
+          "Bruce Lee",
+          "Batman",
+          "Anyone from Avatar",
+          "Any of the Ninja Turtles",
+          "Goku"
+        ]
+      },
+      {
+        "displayName": "Recommended Races",
+        "iterable": [
+          {
+            "name": "Hill Dwarf",
+            "description": "words and things",
+            "source" :"PHB"
+          },
+          {
+            "name": "Aasimar",
+            "description": "celestial people or whatever",
+            "source" :"VGTM"
+          }
+        ]
+      }
+    ],
     "class": true
   },
   "12": {
@@ -162,13 +218,125 @@
   "13": {
     "name": "Sorcerors",
     "text": " are born with raw magical power in their blood. What they lack in knowledge, they make up for with their innate ability to manipulate spells to suit their needs.",
-    "subclasses": [],
+    "sections": [
+      {
+        "displayName": "Subclasses",
+        "iterable": [
+          {
+            "name": "Way of the Open Hand",
+            "description": "magic barehand ass kicking monk",
+            "source": "PHB"
+          },
+          {
+            "name": "Way of the Shadow",
+            "description": "ninja",
+            "source": "PHB"
+          },
+          {
+            "name": "Way of the Four Elements",
+            "description": "Naruto peeps",
+            "source": "PHB"
+          },
+          {
+            "name": "Way of the Kensei",
+            "description": "magic weapon ass kicking monk",
+            "source": "XGTE"
+          },
+          {
+            "name": "Way of the Soul Sun",
+            "description": "Goku, Ryu, etc. hand light beams",
+            "source": "XGTE"
+          }
+        ]
+      },
+      {
+        "displayName": "Ropleplaying Inspiration",
+        "iterable": [
+          "Bruce Lee",
+          "Batman",
+          "Anyone from Avatar",
+          "Any of the Ninja Turtles",
+          "Goku"
+        ]
+      },
+      {
+        "displayName": "Recommended Races",
+        "iterable": [
+          {
+            "name": "Hill Dwarf",
+            "description": "words and things",
+            "source" :"PHB"
+          },
+          {
+            "name": "Aasimar",
+            "description": "celestial people or whatever",
+            "source" :"VGTM"
+          }
+        ]
+      }
+    ],
     "class": true
   },
   "14": {
     "name": "Warlocks",
     "text": " are ambitious seekers of arcane secrets who draw power from alliances and pacts with otherworldly beings. In combat, some warlocks rely on ranged spells to blast at foes while others summon arcane weapons to engage in melee combat.",
-    "subclasses": [],
+    "sections": [
+      {
+        "displayName": "Subclasses",
+        "iterable": [
+          {
+            "name": "Way of the Open Hand",
+            "description": "magic barehand ass kicking monk",
+            "source": "PHB"
+          },
+          {
+            "name": "Way of the Shadow",
+            "description": "ninja",
+            "source": "PHB"
+          },
+          {
+            "name": "Way of the Four Elements",
+            "description": "Naruto peeps",
+            "source": "PHB"
+          },
+          {
+            "name": "Way of the Kensei",
+            "description": "magic weapon ass kicking monk",
+            "source": "XGTE"
+          },
+          {
+            "name": "Way of the Soul Sun",
+            "description": "Goku, Ryu, etc. hand light beams",
+            "source": "XGTE"
+          }
+        ]
+      },
+      {
+        "displayName": "Ropleplaying Inspiration",
+        "iterable": [
+          "Bruce Lee",
+          "Batman",
+          "Anyone from Avatar",
+          "Any of the Ninja Turtles",
+          "Goku"
+        ]
+      },
+      {
+        "displayName": "Recommended Races",
+        "iterable": [
+          {
+            "name": "Hill Dwarf",
+            "description": "words and things",
+            "source" :"PHB"
+          },
+          {
+            "name": "Aasimar",
+            "description": "celestial people or whatever",
+            "source" :"VGTM"
+          }
+        ]
+      }
+    ],
     "class": true
   },
   "15": {
@@ -187,6 +355,63 @@
   "16": {
     "name": "Bards",
     "text": " are quick musical magicians who weave spells with song. Their greatest strength is their versatility. While most prefer sticking to the sidelines, some are inspired by songs of valor to take up a sword and join in the fray.",
+    "sections": [
+      {
+        "displayName": "Subclasses",
+        "iterable": [
+          {
+            "name": "Way of the Open Hand",
+            "description": "magic barehand ass kicking monk",
+            "source": "PHB"
+          },
+          {
+            "name": "Way of the Shadow",
+            "description": "ninja",
+            "source": "PHB"
+          },
+          {
+            "name": "Way of the Four Elements",
+            "description": "Naruto peeps",
+            "source": "PHB"
+          },
+          {
+            "name": "Way of the Kensei",
+            "description": "magic weapon ass kicking monk",
+            "source": "XGTE"
+          },
+          {
+            "name": "Way of the Soul Sun",
+            "description": "Goku, Ryu, etc. hand light beams",
+            "source": "XGTE"
+          }
+        ]
+      },
+      {
+        "displayName": "Ropleplaying Inspiration",
+        "iterable": [
+          "Bruce Lee",
+          "Batman",
+          "Anyone from Avatar",
+          "Any of the Ninja Turtles",
+          "Goku"
+        ]
+      },
+      {
+        "displayName": "Recommended Races",
+        "iterable": [
+          {
+            "name": "Hill Dwarf",
+            "description": "words and things",
+            "source" :"PHB"
+          },
+          {
+            "name": "Aasimar",
+            "description": "celestial people or whatever",
+            "source" :"VGTM"
+          }
+        ]
+      }
+    ],
     "class": true
   },
   "17": {
@@ -205,19 +430,187 @@
   "18": {
     "name": "Barbarians",
     "text": " are savage warriors who embrace thier animal nature and learn to channel primal rage. They have been toughened by their wild homelands and eschew civilization.",
-    "subclasses": [],
+    "sections": [
+      {
+        "displayName": "Subclasses",
+        "iterable": [
+          {
+            "name": "Way of the Open Hand",
+            "description": "magic barehand ass kicking monk",
+            "source": "PHB"
+          },
+          {
+            "name": "Way of the Shadow",
+            "description": "ninja",
+            "source": "PHB"
+          },
+          {
+            "name": "Way of the Four Elements",
+            "description": "Naruto peeps",
+            "source": "PHB"
+          },
+          {
+            "name": "Way of the Kensei",
+            "description": "magic weapon ass kicking monk",
+            "source": "XGTE"
+          },
+          {
+            "name": "Way of the Soul Sun",
+            "description": "Goku, Ryu, etc. hand light beams",
+            "source": "XGTE"
+          }
+        ]
+      },
+      {
+        "displayName": "Ropleplaying Inspiration",
+        "iterable": [
+          "Bruce Lee",
+          "Batman",
+          "Anyone from Avatar",
+          "Any of the Ninja Turtles",
+          "Goku"
+        ]
+      },
+      {
+        "displayName": "Recommended Races",
+        "iterable": [
+          {
+            "name": "Hill Dwarf",
+            "description": "words and things",
+            "source" :"PHB"
+          },
+          {
+            "name": "Aasimar",
+            "description": "celestial people or whatever",
+            "source" :"VGTM"
+          }
+        ]
+      }
+    ],
     "class": true
   },
   "19": {
     "name": "Clerics",
     "text": " are chosen agents of the gods who channel divine power to execute divine will. Clerics' abilities and dispositions are as diverse as the gods they serve.",
-    "subclasses": [],
+    "sections": [
+      {
+        "displayName": "Subclasses",
+        "iterable": [
+          {
+            "name": "Way of the Open Hand",
+            "description": "magic barehand ass kicking monk",
+            "source": "PHB"
+          },
+          {
+            "name": "Way of the Shadow",
+            "description": "ninja",
+            "source": "PHB"
+          },
+          {
+            "name": "Way of the Four Elements",
+            "description": "Naruto peeps",
+            "source": "PHB"
+          },
+          {
+            "name": "Way of the Kensei",
+            "description": "magic weapon ass kicking monk",
+            "source": "XGTE"
+          },
+          {
+            "name": "Way of the Soul Sun",
+            "description": "Goku, Ryu, etc. hand light beams",
+            "source": "XGTE"
+          }
+        ]
+      },
+      {
+        "displayName": "Ropleplaying Inspiration",
+        "iterable": [
+          "Bruce Lee",
+          "Batman",
+          "Anyone from Avatar",
+          "Any of the Ninja Turtles",
+          "Goku"
+        ]
+      },
+      {
+        "displayName": "Recommended Races",
+        "iterable": [
+          {
+            "name": "Hill Dwarf",
+            "description": "words and things",
+            "source" :"PHB"
+          },
+          {
+            "name": "Aasimar",
+            "description": "celestial people or whatever",
+            "source" :"VGTM"
+          }
+        ]
+      }
+    ],
     "class": true
   },
   "20": {
     "name": "Paladins",
     "text": " are holy warriors dedicated to righteousness. They travel far and wide fighting evil, healing the sick, and spreading good wherever they go.",
-    "subclasses": [],
+    "sections": [
+      {
+        "displayName": "Subclasses",
+        "iterable": [
+          {
+            "name": "Way of the Open Hand",
+            "description": "magic barehand ass kicking monk",
+            "source": "PHB"
+          },
+          {
+            "name": "Way of the Shadow",
+            "description": "ninja",
+            "source": "PHB"
+          },
+          {
+            "name": "Way of the Four Elements",
+            "description": "Naruto peeps",
+            "source": "PHB"
+          },
+          {
+            "name": "Way of the Kensei",
+            "description": "magic weapon ass kicking monk",
+            "source": "XGTE"
+          },
+          {
+            "name": "Way of the Soul Sun",
+            "description": "Goku, Ryu, etc. hand light beams",
+            "source": "XGTE"
+          }
+        ]
+      },
+      {
+        "displayName": "Ropleplaying Inspiration",
+        "iterable": [
+          "Bruce Lee",
+          "Batman",
+          "Anyone from Avatar",
+          "Any of the Ninja Turtles",
+          "Goku"
+        ]
+      },
+      {
+        "displayName": "Recommended Races",
+        "iterable": [
+          {
+            "name": "Hill Dwarf",
+            "description": "words and things",
+            "source" :"PHB"
+          },
+          {
+            "name": "Aasimar",
+            "description": "celestial people or whatever",
+            "source" :"VGTM"
+          }
+        ]
+      }
+    ],
     "class": true
   },
   "21": {
@@ -259,7 +652,63 @@
   "23": {
     "name": "Wizards",
     "text": " are wise arcane scholar. Their studies give them insight into diverse and powerful schools of magic, allowing them to summon explosive fireballs, raise undead armies, and manipulate the fabric of time.",
-    "subclasses": [],
+    "sections": [
+      {
+        "displayName": "Subclasses",
+        "iterable": [
+          {
+            "name": "Way of the Open Hand",
+            "description": "magic barehand ass kicking monk",
+            "source": "PHB"
+          },
+          {
+            "name": "Way of the Shadow",
+            "description": "ninja",
+            "source": "PHB"
+          },
+          {
+            "name": "Way of the Four Elements",
+            "description": "Naruto peeps",
+            "source": "PHB"
+          },
+          {
+            "name": "Way of the Kensei",
+            "description": "magic weapon ass kicking monk",
+            "source": "XGTE"
+          },
+          {
+            "name": "Way of the Soul Sun",
+            "description": "Goku, Ryu, etc. hand light beams",
+            "source": "XGTE"
+          }
+        ]
+      },
+      {
+        "displayName": "Ropleplaying Inspiration",
+        "iterable": [
+          "Bruce Lee",
+          "Batman",
+          "Anyone from Avatar",
+          "Any of the Ninja Turtles",
+          "Goku"
+        ]
+      },
+      {
+        "displayName": "Recommended Races",
+        "iterable": [
+          {
+            "name": "Hill Dwarf",
+            "description": "words and things",
+            "source" :"PHB"
+          },
+          {
+            "name": "Aasimar",
+            "description": "celestial people or whatever",
+            "source" :"VGTM"
+          }
+        ]
+      }
+    ],
     "class": true
   },
   "24": {
@@ -279,19 +728,187 @@
   "25": {
     "name": "Rangers",
     "text": " are stealthy and highly specialized hunters from the wild frontiers. A mix of nature magic and martial training make rangers formidable combatants who are deadly at any distance.",
-    "subclasses": [],
+    "sections": [
+      {
+        "displayName": "Subclasses",
+        "iterable": [
+          {
+            "name": "Way of the Open Hand",
+            "description": "magic barehand ass kicking monk",
+            "source": "PHB"
+          },
+          {
+            "name": "Way of the Shadow",
+            "description": "ninja",
+            "source": "PHB"
+          },
+          {
+            "name": "Way of the Four Elements",
+            "description": "Naruto peeps",
+            "source": "PHB"
+          },
+          {
+            "name": "Way of the Kensei",
+            "description": "magic weapon ass kicking monk",
+            "source": "XGTE"
+          },
+          {
+            "name": "Way of the Soul Sun",
+            "description": "Goku, Ryu, etc. hand light beams",
+            "source": "XGTE"
+          }
+        ]
+      },
+      {
+        "displayName": "Ropleplaying Inspiration",
+        "iterable": [
+          "Bruce Lee",
+          "Batman",
+          "Anyone from Avatar",
+          "Any of the Ninja Turtles",
+          "Goku"
+        ]
+      },
+      {
+        "displayName": "Recommended Races",
+        "iterable": [
+          {
+            "name": "Hill Dwarf",
+            "description": "words and things",
+            "source" :"PHB"
+          },
+          {
+            "name": "Aasimar",
+            "description": "celestial people or whatever",
+            "source" :"VGTM"
+          }
+        ]
+      }
+    ],
     "class": true
   },
   "26": {
     "name": "Druids",
     "text": " are followers of ancient traditions that seek unity with the primal forces of the natural world. These traditions grant druids the ability to do incredible things like transform into animals or call terrifying elemental power down on the heads of their enemies.",
-    "subclasses": [],
+    "sections": [
+      {
+        "displayName": "Subclasses",
+        "iterable": [
+          {
+            "name": "Way of the Open Hand",
+            "description": "magic barehand ass kicking monk",
+            "source": "PHB"
+          },
+          {
+            "name": "Way of the Shadow",
+            "description": "ninja",
+            "source": "PHB"
+          },
+          {
+            "name": "Way of the Four Elements",
+            "description": "Naruto peeps",
+            "source": "PHB"
+          },
+          {
+            "name": "Way of the Kensei",
+            "description": "magic weapon ass kicking monk",
+            "source": "XGTE"
+          },
+          {
+            "name": "Way of the Soul Sun",
+            "description": "Goku, Ryu, etc. hand light beams",
+            "source": "XGTE"
+          }
+        ]
+      },
+      {
+        "displayName": "Ropleplaying Inspiration",
+        "iterable": [
+          "Bruce Lee",
+          "Batman",
+          "Anyone from Avatar",
+          "Any of the Ninja Turtles",
+          "Goku"
+        ]
+      },
+      {
+        "displayName": "Recommended Races",
+        "iterable": [
+          {
+            "name": "Hill Dwarf",
+            "description": "words and things",
+            "source" :"PHB"
+          },
+          {
+            "name": "Aasimar",
+            "description": "celestial people or whatever",
+            "source" :"VGTM"
+          }
+        ]
+      }
+    ],
     "class": true
   },
   "27": {
     "name": "Fighters",
     "text": " are masters of martial combat. While all fighters are trained in the basics of every fighting style, each fighter also has a specialty that makes them uniquely deadly.",
-    "subclasses": [],
+    "sections": [
+      {
+        "displayName": "Subclasses",
+        "iterable": [
+          {
+            "name": "Way of the Open Hand",
+            "description": "magic barehand ass kicking monk",
+            "source": "PHB"
+          },
+          {
+            "name": "Way of the Shadow",
+            "description": "ninja",
+            "source": "PHB"
+          },
+          {
+            "name": "Way of the Four Elements",
+            "description": "Naruto peeps",
+            "source": "PHB"
+          },
+          {
+            "name": "Way of the Kensei",
+            "description": "magic weapon ass kicking monk",
+            "source": "XGTE"
+          },
+          {
+            "name": "Way of the Soul Sun",
+            "description": "Goku, Ryu, etc. hand light beams",
+            "source": "XGTE"
+          }
+        ]
+      },
+      {
+        "displayName": "Ropleplaying Inspiration",
+        "iterable": [
+          "Bruce Lee",
+          "Batman",
+          "Anyone from Avatar",
+          "Any of the Ninja Turtles",
+          "Goku"
+        ]
+      },
+      {
+        "displayName": "Recommended Races",
+        "iterable": [
+          {
+            "name": "Hill Dwarf",
+            "description": "words and things",
+            "source" :"PHB"
+          },
+          {
+            "name": "Aasimar",
+            "description": "celestial people or whatever",
+            "source" :"VGTM"
+          }
+        ]
+      }
+    ],
     "class": true
   },
   "28": {
@@ -329,7 +946,63 @@
   "30": {
     "name": "Rogues",
     "text": " are skilled and resourceful opportunists. They execute cunning and precision, often lulling thier foes into a false sense of security before they strike.",
-    "subclasses": [],
+    "sections": [
+      {
+        "displayName": "Subclasses",
+        "iterable": [
+          {
+            "name": "Way of the Open Hand",
+            "description": "magic barehand ass kicking monk",
+            "source": "PHB"
+          },
+          {
+            "name": "Way of the Shadow",
+            "description": "ninja",
+            "source": "PHB"
+          },
+          {
+            "name": "Way of the Four Elements",
+            "description": "Naruto peeps",
+            "source": "PHB"
+          },
+          {
+            "name": "Way of the Kensei",
+            "description": "magic weapon ass kicking monk",
+            "source": "XGTE"
+          },
+          {
+            "name": "Way of the Soul Sun",
+            "description": "Goku, Ryu, etc. hand light beams",
+            "source": "XGTE"
+          }
+        ]
+      },
+      {
+        "displayName": "Ropleplaying Inspiration",
+        "iterable": [
+          "Bruce Lee",
+          "Batman",
+          "Anyone from Avatar",
+          "Any of the Ninja Turtles",
+          "Goku"
+        ]
+      },
+      {
+        "displayName": "Recommended Races",
+        "iterable": [
+          {
+            "name": "Hill Dwarf",
+            "description": "words and things",
+            "source" :"PHB"
+          },
+          {
+            "name": "Aasimar",
+            "description": "celestial people or whatever",
+            "source" :"VGTM"
+          }
+        ]
+      }
+    ],
     "class": true
   }
 }

@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Button, H5 } from "@blueprintjs/core";
-import Intro from './Intro';
-import Survey from './Survey';
+import Intro from './intro';
+import Survey from './survey';
 import options from './decisions.json';
 
 class Class extends Component {

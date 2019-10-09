@@ -1,19 +1,25 @@
 import React, { Component } from 'react';
 import { H4 } from "@blueprintjs/core";
+import Section from './section';
 
 class Class extends Component {
   render() {
-    const singular = this.props.name.slice(0, this.props.name.length - 1);
+    const selection = this.props.selection;
+    const singular = selection.name.slice(0, selection.name.length - 1);
+    const section = selection.sections.map((s) => {
+      return <Section section={s} />;
+    });
     return (
       <div>
         <p className="class-title">{`You are a ${singular}`}</p>
-        <img className="class-img" src={`./images/${this.props.name}.png`} alt={this.props.name} />
+        <img className="class-img" src={`./images/${selection.name}.png`} alt={selection.name} />
         <H4>
-          {this.props.name}
+          {selection.name}
         </H4>
         <p>
-          {this.props.desc}
+          {selection.text}
         </p>
+        {section}
       </div>
     );
   }
