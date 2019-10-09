@@ -1,0 +1,21 @@
+.ability-scores {
+  padding-bottom: 2.5rem;
+}
+.as-desc {
+  text-align: justify;
+}
+.stats {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+#greeting {
+  color: #61dafb;
+}
+.stat-list {
+  padding-inline-start: 0px;
+}
+.stat {
+  list-style-type: none;
+}
